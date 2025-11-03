@@ -1,0 +1,12 @@
+# Welcome to My Personal Website
+
+Hi, I'm **Jialu Chen**. I'm a Master's student at the **School of Information and Electronics**, Wuhan University of Technology.
+
+## My Research Interests:
+- Machine Learning
+- Computer Vision
+- Artificial Intelligence
+
+### Contact:
+- Email: [jialu.chen06@gmail.com](mailto:jialu.chen06@gmail.com)
+- [GitHub](https://github.com/gluckyd/jialuchen)
